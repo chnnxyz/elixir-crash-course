@@ -16,6 +16,11 @@
 - fstrings use `#` before `{}` and dont require any prompt befor ethe string
 - `String.trim` is the equivalent to `String.strip`
 - `case` is a combination of an if and a switch.
+- You can do `do: <return>` in a single line without using `end`
+- anonymous (lambda) functions are defined as `fn x -> <return>`
+- Tuere is an unless operator, opposite to if.
+- if and unless use do and else
+- `defp` stands for private function
 
 ## Other notes
 - Like in python, lists can take multiple data types
