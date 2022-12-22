@@ -12,6 +12,10 @@
 - Maps (dicts) are defined as `%{"key" => <value>}`
 - The pin `^` accesses the value of a variable directly
 - Default values are assigned with `\\`
+- `IO.puts` prints, `IO.gets` is input
+- fstrings use `#` before `{}` and dont require any prompt befor ethe string
+- `String.trim` is the equivalent to `String.strip`
+- `case` is a combination of an if and a switch.
 
 ## Other notes
 - Like in python, lists can take multiple data types
