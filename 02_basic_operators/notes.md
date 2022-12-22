@@ -11,6 +11,7 @@
 - Functions with no arguments dont use parentheses.
 - Maps (dicts) are defined as `%{"key" => <value>}`
 - The pin `^` accesses the value of a variable directly
+- Default values are assigned with `\\`
 
 ## Other notes
 - Like in python, lists can take multiple data types
