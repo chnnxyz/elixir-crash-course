@@ -9,6 +9,8 @@
 - There is no return keyword, whatever you add last to a function is the return
 - `do` and `end` are equivalent to `{}` in most languages or indent blocks in python.
 - Functions with no arguments dont use parentheses.
+- Maps (dicts) are defined as `%{"key" => <value>}`
+- The pin `^` accesses the value of a variable directly
 
 ## Other notes
 - Like in python, lists can take multiple data types
